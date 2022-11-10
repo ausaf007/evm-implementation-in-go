@@ -30,9 +30,9 @@ Download and install [Golang 1.19](https://go.dev/doc/install) (or higher).
 
 ## How To Use?
 
-1. Navigate to `task-2-ethereum-vm/`:
+1. Navigate to `evm-implementation-in-go/`:
    ``` 
-   cd /path/to/folder/task-2-ethereum-vm/
+   cd /path/to/folder/evm-implementation-in-go/
    ```
 2. Get dependencies:
    ``` 
